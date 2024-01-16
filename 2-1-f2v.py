@@ -33,7 +33,6 @@ def frames_to_video(path_input_dir, video, frame_rate):
 
     # release video writer
     video.release()
-    cv2.destroyAllWindows()
 
 # function call
 frames_to_video(path_input_dir, video, frame_rate)

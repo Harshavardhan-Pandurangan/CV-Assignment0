@@ -2,7 +2,13 @@
 1.mp4
 2.mp4
 frames/
+cam_captures/
+bg_frames/
+fg_frames/
 .vscode/c_cpp_properties.json
 .vscode/launch.json
 .vscode/settings.json
 .DS_Store
+bg.mp4
+fg.mp4
+output.mp4
